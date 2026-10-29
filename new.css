@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0;
+    background-color: rgb(228, 234, 236);
+}
+header {
+    background-color: rgb(60, 156, 77);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.01ch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+    
+
+nav ul {
+display: flex;
+justify-content: center;
+list-style-type:none;
+gap: 40px;
+
+}
+
+nav a {
+
+
+
+
+    text-decoration: none;
+    transition: background 0.2s  ,transform 0.5s ;
+    
+}
+
+
+
+a {
+
+color: rgb(238, 242, 247);
+font-weight: 900;
+text-decoration: none;
+}
+
+
